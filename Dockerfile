@@ -1,5 +1,5 @@
 FROM node:alpine
-
+#This is node.js image
 EXPOSE 1337
 
 WORKDIR /var/www
