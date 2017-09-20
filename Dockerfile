@@ -1,7 +1,7 @@
 FROM node:alpine
 #This is node.js image
 EXPOSE 1337
-#This should work
+#updated again
 WORKDIR /var/www
 COPY package.json /var/www/
 RUN npm install
