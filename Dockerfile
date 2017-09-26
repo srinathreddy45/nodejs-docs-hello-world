@@ -1,5 +1,5 @@
 FROM node:alpine
-#This is node.js image
+#This is node.js image. Tomcat
 EXPOSE 1337
 #updated again and again
 WORKDIR /var/www
